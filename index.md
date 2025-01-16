@@ -3,3 +3,5 @@
 ###### hEADER 6
 
 A SHORT MEANINGFUL COMMIT MESSAGE THAT DESCRIBES THE CHANGE YOU MADE TO THE FILE
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
